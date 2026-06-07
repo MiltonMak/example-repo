@@ -1,6 +1,6 @@
 # Inventory
 
-This program reads from the text file inventory.txt and makes a program that tracks inventory for the store mananger. It performs stock-taking to keep track of shoes in a store.
+This program reads from the text file inventory.txt and makes a program that tracks inventory for the store mananger. It performs stock-taking to keep track of shoes in the store.
 
 You can search the product by code
 Determine the product with the lowest quantity and restock it. 
